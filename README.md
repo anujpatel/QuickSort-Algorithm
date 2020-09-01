@@ -12,5 +12,4 @@ How it works:
     3. Using recursion sort both array using quicksort
     4. Combine array
     
-  Author : Anuj Patel
-  Source : http://goldenpackagebyanuj.blogspot.in/2014/07/quick-sort-algorithm-using-java.html
+For more information Visit - https://goldenpackagebyanuj.blogspot.com/2014/07/quick-sort-algorithm-using-java.html
